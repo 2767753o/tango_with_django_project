@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # Shell scripts
-.sh
+run.sh
 
