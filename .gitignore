@@ -162,3 +162,5 @@ cython_debug/
 # Shell scripts
 run.sh
 
+# VSCode project settings
+.vscode
